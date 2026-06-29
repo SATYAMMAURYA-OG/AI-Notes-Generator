@@ -3,6 +3,7 @@ uvicorn
 python-multipart
 google-generativeai
 PyMuPDF
+pypdf
 reportlab
 python-dotenv
 groq
