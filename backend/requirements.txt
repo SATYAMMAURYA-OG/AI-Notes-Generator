@@ -4,6 +4,7 @@ python-multipart
 google-generativeai
 PyMuPDF
 pypdf
+easyocr
 reportlab
 python-dotenv
 groq
