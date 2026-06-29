@@ -4,3 +4,4 @@ python-multipart
 google-generativeai
 PyMuPDF
 reportlab
+python-dotenv
