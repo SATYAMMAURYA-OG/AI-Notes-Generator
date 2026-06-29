@@ -1,0 +1,11 @@
+node_modules/
+frontend/node_modules/
+backend/venv/
+backend/.env
+.env
+.env.*
+__pycache__/
+*.pyc
+generated_notes.pdf
+backend/.env.bak
+backend/generated_notes.pdf
